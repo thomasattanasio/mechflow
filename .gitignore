@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Environment
+.env
+venv/
+env/
+
+
+# Database
+*.db
+*.sqlite3
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# Mobile
+mobile/node_moodules/
+mobile/dist/
+mobile/www/
