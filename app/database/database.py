@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 
 
 # Database URL configuration
-SQLALCHEMY_DATABASE_URL = 'sqllite:///./mechfflow.db'
+SQLALCHEMY_DATABASE_URL = 'sqlite:///./mechflow.db'
 
 
 # Create the SQLAlchemy engine
